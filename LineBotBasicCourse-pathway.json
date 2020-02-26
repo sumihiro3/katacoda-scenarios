@@ -1,0 +1,11 @@
+{
+  "title": "LINE Bot Basic Course",
+  "description": "LINE Bot Basic Course",
+  "courses": [
+    {
+      "course_id": "LineBotBasicScenario",
+      "title": "LINE Bot Hands-on Basic",
+      "description": "Basic Scenario"
+    }
+  ]
+}
