@@ -19,7 +19,10 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "intoro_courseData.sh",
+      "code": "intoro_code.sh",
+      "credits": ""
     },
     "finish": {
       "text": "finish.md"
