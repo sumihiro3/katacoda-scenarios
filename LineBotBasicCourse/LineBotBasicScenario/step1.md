@@ -78,7 +78,7 @@
 
 ![Webhook URL](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/WebhookURL.png)
 
-- `https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com/linebot`{{copy}}
+- `https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com/linebot`{{copy}}<br>
 このURL をコピペする
 
 ![Webhook URL](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/WebhookURL_02.png)
