@@ -29,6 +29,10 @@
     }
   },
   "environment": {
+    "showide": true,
+    "ide": "ssh host01 '/opt/start-vscode.sh'",
+    "idePort": 23000,
+    "hideintro": false,
     "uilayout": "terminal"
   },
   "backend": {

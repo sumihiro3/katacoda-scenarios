@@ -8,6 +8,6 @@ git clone https://github.com/sumihiro3/line-bot-hands-on-vol1.git example
 # install dependent modules
 cd example
 npm install
-# clear
+clear
 # Done!!
 echo "ソースコードのインストールが完了しました！"
