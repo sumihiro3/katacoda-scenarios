@@ -1,5 +1,5 @@
 
-# 1. チャネルの作成
+# 1. Bot チャネルの作成・設定
 
 
 ## 1-1. LINE Developers にログイン
@@ -78,7 +78,7 @@
 
 ![Webhook URL](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/WebhookURL.png)
 
-- `https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/linebot`{{copy}}
+- `https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com/linebot`{{copy}}
 このURL をコピペする
 
 ![Webhook URL](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/WebhookURL_02.png)
@@ -125,3 +125,6 @@ LINE Bot へのQR コードをLINEアプリで読み込んで友だち登録す�
 ![BotQRCode](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/BotQRCode.png)
 
 *LINE Bot へのQR コードは、LINE Developers の「Messaging API 設定」タブ内上部にあります*
+
+### お疲れ様でした
+### 次はプログラム側の設定を行い、オウム返しBot を動かします
