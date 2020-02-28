@@ -74,11 +74,15 @@
 ![Webhook](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/WebhookSetting_02.png)
 
 
-### Webhook URL に下記のURLを入力する
+### Webhook URL に下記のURLを入力して、「Webhookの利用」を有効にする
 
 ![Webhook URL](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/WebhookURL.png)
 
 - `https://[[HOST_SUBDOMAIN]]-8080-[[KATACODA_HOST]].environments.katacoda.com/linebot`{{copy}}
+このURL をコピペする
+
+![Webhook URL](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/WebhookURL_02.png)
+「Webhookの利用」を有効にする
 
 
 ## 1-6. 応答設定
