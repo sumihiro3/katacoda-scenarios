@@ -16,7 +16,7 @@ Step1 ではLINE 側の設定画面でBot を利用するためのチャネル�
 ![プロバイダー選択](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/ProviderList.png)
 
 
-### プロバイダー未作成の人は画面上の「作成」ボタンを押下して新規作成してください。
+プロバイダー未作成の人は画面上の「作成」ボタンを押下して新規作成してください。
 
 - *任意の「プロバイダー名」を入力して作成*
     - *LINE* という文字列は含められません
@@ -24,17 +24,15 @@ Step1 ではLINE 側の設定画面でBot を利用するためのチャネル�
 
 ## 1-3. チャネルを新規作成
 
-### Botのチャネルを作成
+Botのチャネルを作成
 ![チャネル作成](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/NewChannel.png)
 
-### 「Messaging API」 を選択
+「Messaging API」 を選択
 ![Messaging API](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/SelectMessagingAPI.png)
-
-### チャネル情報を入力
 
 チャネル情報を入力して、「入力内容を確認する」ボタンを押下する
 
-#### チャネル情報の入力例
+### チャネル情報の入力例
 
 |  項目名  |  値  |
 | :-- | :-- |
@@ -49,11 +47,11 @@ Step1 ではLINE 側の設定画面でBot を利用するためのチャネル�
 
 ![チャネルの情報を入力](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/InputChannelSetting.png)
 
-### 各種規約に同意してチャネルを作成する
+各種規約に同意してチャネルを作成する
 
 ![各種規約に同意](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/AgreeTerms.png)
 
-### 情報利用に関する事項に同意する
+情報利用に関する事項に同意する
 
 ![情報利用に関する事項に同意する](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/AgreeTerms02.png)
 
@@ -69,14 +67,14 @@ Step1 ではLINE 側の設定画面でBot を利用するためのチャネル�
 
 ## 1-5. Webhook 設定
 
-### 「Messaging API設定」タブ内にある、Webhook URL の「編集」ボタンを押下してWebhook URL を入力可能状態にする
+「Messaging API設定」タブ内にある、Webhook URL の「編集」ボタンを押下してWebhook URL を入力可能状態にする
 
 ![Webhook](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/WebhookSetting_01.png)
 
 ![Webhook](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/WebhookSetting_02.png)
 
 
-### Webhook URL に下記のURLを入力して、「Webhookの利用」を有効にする
+Webhook URL に下記のURLを入力して、「Webhookの利用」を有効にする
 
 ![Webhook URL](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/WebhookURL.png)
 
@@ -93,7 +91,7 @@ LINE公式アカウント機能 の画面右側にある「編集」リンクを
 
 ![公式アカウントマネージャー画面](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/MessageSetting01.png)
 
-### 応答設定画面を開く
+応答設定画面を開く
 
 公式アカウントマネージャー画面左の「応答設定」を選択して応答設定画面を開く
 

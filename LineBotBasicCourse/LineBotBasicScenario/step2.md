@@ -15,11 +15,11 @@ Katacoda 画面のIDE タブを選択してエディター（VSCode）を表示�
 
 ## 2-2. envファイルを更新する
 
-### exampleフォルダにある `.env` ファイルをクリックして開く
+exampleフォルダにある `.env` ファイルをクリックして開く
 
 ![envファイル](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/OpenDotEnv.png)
 
-### `.env` ファイルの内容を更新して保存する
+`.env` ファイルの内容を更新して保存する
 
 ![envファイル](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/ModifyDotEnv.png)
 
