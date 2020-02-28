@@ -56,9 +56,9 @@
 ![情報利用に関する事項に同意する](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/AgreeTerms02.png)
 
 
-## 1-4. Channel Secret をメモしておく
+## 1-4. チャネルシークレット をメモしておく
 
-チャネル基本情報画面に表示されているChannel Secret をメモしておく
+チャネル基本情報画面に表示されているチャネルシークレット をメモしておく
 
 ![CopyChannelSecret](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/CopyChannelSecret_01.png)
 

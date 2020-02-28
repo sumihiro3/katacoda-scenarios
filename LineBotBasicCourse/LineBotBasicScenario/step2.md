@@ -11,7 +11,24 @@ Katacoda 画面のIDE タブを選択してエディター（VSCode）を表示�
 
 
 ## 2-2. envファイルを更新する
-exampleフォルダにある `.env` ファイルをクリックして開く
+
+### exampleフォルダにある `.env` ファイルをクリックして開く
+
+![envファイル](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/OpenDotEnv.png)
+
+### `.env` ファイルの内容を更新して保存する
+
+![envファイル](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/ModifyDotEnv.png)
+
+|  項目名  |  値  |
+| :-- | :-- |
+|  CHANNEL_ACCESS_TOKEN  |  （1-7. でメモしたチャネルアクセストークン）  |
+|  CHANNEL_SECRET  |  （1-4. でメモしたチャネルシークレット）  |
+|  BASE_URL  |  `https://[[HOST_SUBDOMAIN]]-3000-[[KATACODA_HOST]].environments.katacoda.com`{{copy}}  |
 
 
+## 2-3. プログラム実行
+設定変更が完了完了したら、下記コマンドをTerminal で実行する
+
+`node index.js`{{execute}}
 
