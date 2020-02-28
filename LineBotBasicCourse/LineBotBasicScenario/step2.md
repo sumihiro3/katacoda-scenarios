@@ -1,8 +1,11 @@
-# 2 Bot の設定＆オウム返しBot を実行する
+# Bot の設定＆オウム返しBot を実行する
+
+Step2 ではプログラム側にBot チャネルの設定を行い、オウム返しBot がLINE アプリで使えるようにします。
+
 
 ## 2-1. Katacoda でエディター（VSCode）を表示させる
 
-Katacoda 画面のIDE タブを選択してエディター（VSCode）を表示させる
+Katacoda 画面のIDE タブを選択してエディター（VSCode）を表示する
 
 ![エディター（VSCode）を表示させる](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/KatacodaIDETab.png)
 
@@ -32,3 +35,15 @@ Katacoda 画面のIDE タブを選択してエディター（VSCode）を表示�
 
 `node index.js`{{execute}}
 
+
+## 2-4. オウム返しBot を使ってみる
+LINE アプリで先ほど友だち登録したBot アカウントのトーク画面を開いて、オウム返しBot を使ってみましょう。
+テキストや画像、スタンプなどのメッセージを送信し、そのまま返信されるか試してみましょう。
+
+*注意：スタンプはLINE 公式スタンプのみ返ってきます*
+
+![オウム返しBot](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/ParrotSpeakBot.png)
+
+
+### お疲れ様でした
+### 次のStep ではクイズBot の設定を行って動かします
