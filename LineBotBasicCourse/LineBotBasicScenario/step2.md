@@ -44,6 +44,8 @@ LINE アプリで先ほど友だち登録したBot アカウントのトーク�
 
 ![オウム返しBot](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/ParrotSpeakBot.png)
 
+試し終わったら、Terminal で`Ctrl + C` を押下してプログラムを中断してください。
+
 
 ### お疲れ様でした
 ### 次のStep ではクイズBot の設定を行って動かします
