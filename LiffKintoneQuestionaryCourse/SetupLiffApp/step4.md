@@ -28,3 +28,5 @@
 
 ![LIFF アプリを追加](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LiffKintoneQuestionaryCourse/SetupBotAndLiff/images/UpdateLiffEndpointURL02.png)
 
+### お疲れ様でした
+### 次のStep では、いよいよアプリを動かします！
