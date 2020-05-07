@@ -1,0 +1,11 @@
+{
+  "title": "LIFF x Kintone Questionary app Course",
+  "description": "build the Questionary app with LIFF and kintone",
+  "courses": [
+    {
+      "course_id": "SetupBotAndLiff",
+      "title": "Set up the LINE Bot and LIFF account",
+      "description": "Set up the LINE Bot and LIFF account"
+    }
+  ]
+}
