@@ -74,11 +74,11 @@ Botのチャネルを作成
 ![Webhook](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/WebhookSetting_02.png)
 
 
-Webhook URL に下記のURLを入力して、「Webhookの利用」を有効にする
+Webhook URL に下記のダミーURL を入力して、「Webhookの利用」を有効にする
 
-- `https://${your_heroku_app_name}.herokuapp.com/bot/webhook` <br>
+- `https://google.com` 
 
-${your_heroku_app_name} 部分は、ご自分のアプリ名で置き換えて入力しておく
+**後で正しい値に変更します**
 
 ![Webhook URL](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LiffKintoneQuestionaryCourse/SetupBotAndLiff/images/WebhookURL_02.png)
 「Webhookの利用」を有効にする

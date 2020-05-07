@@ -6,6 +6,11 @@
       "course_id": "SetupBotAndLiff",
       "title": "Set up the LINE Bot and LIFF account",
       "description": "Set up the LINE Bot and LIFF account"
+    },
+    {
+      "course_id": "SetupLiffApp",
+      "title": "Setup LIFF App",
+      "description": "Setup LIFF App"
     }
   ]
 }
