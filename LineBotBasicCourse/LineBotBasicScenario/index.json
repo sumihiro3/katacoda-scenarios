@@ -20,8 +20,8 @@
     ],
     "intro": {
       "text": "intro.md",
-      "courseData": "intoro_courseData.sh",
-      "code": "intoro_code.sh",
+      "courseData": "intro_courseData.sh",
+      "code": "intro_code.sh",
       "credits": ""
     },
     "finish": {
