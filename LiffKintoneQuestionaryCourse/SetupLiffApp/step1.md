@@ -3,6 +3,10 @@
 このシナリオを開始した時点で、heroku CLI とソースコードのセットアップが自動で実行されます。
 画面右側のTerminal に `インストールが完了しました！` と表示されればセットアップが完了しています。（環境などによって時間がかかる場合があります）
 
+LIFF アプリのソースコードは下記のGitHub リポジトリにアップしています。
+
+[GitHub リポジトリ](https://github.com/sumihiro3/liff-kintone-questionary)
+
 
 ## 1-1. heroku にログインする
 
