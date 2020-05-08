@@ -1,8 +1,8 @@
 #!/bin/bash
 # install node.js using n
-sudo npm install -g n
+# sudo npm install -g n
 # download and install heroku cli
-# curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
+curl https://cli-assets.heroku.com/install-ubuntu.sh | sh
 # # change node v12.16.3
 # sudo n 12.16.3
 # clone hands-on code
