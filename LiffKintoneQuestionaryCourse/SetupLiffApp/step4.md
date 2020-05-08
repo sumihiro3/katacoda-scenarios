@@ -24,7 +24,14 @@
 
 ## 4-3. LIFF のエンドポイントURL 設定
 
-「アンケートLIFFアプリ（ログイン）」チャネルを選択し、「LIFF」タブを選択して、LIFF アプリを追加する
+「アンケートLIFFアプリ（ログイン）」チャネルを選択し、「LIFF」タブから追加したLIFFを選択する。
+
+エンドポイントURL を入力して更新する。
+
+
+`https://${your_app_name}.herokuapp.com/`{{copy}}
+
+**${your_app_name}部分は、ご自分のheroku 環境に応じて変更してください**
 
 ![LIFF アプリを追加](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LiffKintoneQuestionaryCourse/SetupBotAndLiff/images/UpdateLiffEndpointURL02.png)
 

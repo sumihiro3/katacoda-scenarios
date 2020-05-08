@@ -80,4 +80,4 @@ LINE アカントでログインをすると、アンケート画面が表示さ
 
 ![Bot](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LiffKintoneQuestionaryCourse/SetupBotAndLiff/images/BotTalkPage.png)
 
-### これでハンズオンは完了です。お疲れ様でした！！
+### これでアプリのデプロイと実行は完了です。お疲れ様でした！！
