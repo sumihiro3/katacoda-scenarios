@@ -86,6 +86,15 @@ heroku config:set LINE_BOT_CHANNEL_ACCESS_TOKEN=xxxxxxxxxxxxxxxxxxxx
 
 ### 2-3-C. LIFF ID
 
+LIFF URLの最後の/(スラッシュ)以降が、LIFFのIDです。
+
+例
+
+- LIFF URL
+    - https://liff.line.me/`1234567890-XXXXXXXX`
+- LIFF ID
+    - `1234567890-XXXXXXXX`
+
 `heroku config:set LIFF_ID=${liff-id}`{{copy}}
 
 **${liff-id} 部分は、ご自分の環境に合わせて変更してください**
