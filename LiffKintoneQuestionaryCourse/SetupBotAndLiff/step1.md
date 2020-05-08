@@ -117,13 +117,5 @@ LINE公式アカウント機能 の画面右側にある「編集」リンクを
 ![GenerateToken](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/GenerateToken_02.png)
 
 
-## 1-8. 作成したBotのチャネルを友だち登録する
-
-LINE Bot へのQR コードをLINEアプリで読み込んで友だち登録する
-
-![BotQRCode](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LiffKintoneQuestionaryCourse/SetupBotAndLiff/images/BotQRCode.png)
-
-*LINE Bot へのQR コードは、LINE Developers の「Messaging API 設定」タブ内上部にあります*
-
 ### お疲れ様でした
 ### 次のStep では、LIFF の設定を行います

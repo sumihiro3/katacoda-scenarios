@@ -84,10 +84,26 @@ LIFF アプリが追加されたことを確認する
 
 ## 2-6. シェアターゲットピッカーを有効にする
 
+シェアターゲットピッカーは、友だちへ簡単にLIFF アプリをシェアできる機能です。
+
 ![シェアターゲットピッカー](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LiffKintoneQuestionaryCourse/SetupBotAndLiff/images/EnableShareTargetPicker_01.png)
 
 ![シェアターゲットピッカー](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LiffKintoneQuestionaryCourse/SetupBotAndLiff/images/EnableShareTargetPicker_02.png)
 
+
+## 2-7. Bot リンク設定
+
+LINE ログインチャネル（LIFF）とMessaging API チャネル（Bot）とを紐付けて（Bot リンク）、一連のサービスとして提供することができます。
+
+Bot リンクするおくことで、LIFF アプリでサービスを提供しつつ、Bot でユーザーへメッセージ通知などを行うことができます。
+
+「LINE ログイン設定」タブを選択して、Bot リンク設定を行う
+
+![Bot リンク](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LiffKintoneQuestionaryCourse/SetupBotAndLiff/images/BotLink_01.png)
+
+前のステップで作成したMessaging API アカウントを選択して、更新ボタンを押下する
+
+![Bot リンク](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LiffKintoneQuestionaryCourse/SetupBotAndLiff/images/BotLink_02.png)
 
 
 ### お疲れ様でした
