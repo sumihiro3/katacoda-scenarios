@@ -20,7 +20,7 @@ Terminal で以下のコマンドを実行し、heroku に登録したメール�
 無料で5つまで作成でき、クレジットカードを登録すれば作成枠が増えます。
 アプリの名前は全体で一意になるようにしてください。英小文字、数字、-(ハイフン)のみ使用可能です。
 
-`heroku create ldc-20200511-${your_name}`{{copy}}
+`heroku create ldc-20200511-${your_name}`
 
 **※ `${your_name}` 部分は、ご自分の名前やニックネームなど他の方と被らない名称を入力してください。**
 
@@ -31,7 +31,7 @@ Terminal で以下のコマンドを実行し、heroku に登録したメール�
 
 ## 1-3. heroku アプリとリポジトリを紐づける
 
-`heroku git:remote -a ldc-20200511-${your_name}`{{copy}}
+`heroku git:remote -a ldc-20200511-${your_name}`
 
 <font color="red">**※ `${your_name}` 部分は、ご自分の名前やニックネームなど他の方と被らない名称を入力してください。**</font>
 
@@ -40,11 +40,11 @@ Terminal で以下のコマンドを実行し、heroku に登録したメール�
 
 git リポジトリを利用できるよう初期設定を行います。
 
-`git config --global user.email ${your_mail}`{{copy}}
+`git config --global user.email ${your_mail}`
 
 <font color="red">※ `${your_mail}` 部分はご自身のメールアドレスに置き換えてください。</font><br>
 
-`git config --global user.name ${your_name}`{{copy}}
+`git config --global user.name ${your_name}`
 
 <font color="red">※ `${your_name}` 部分はご自身の名前に置き換えてください。</font><br>
 

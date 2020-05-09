@@ -110,7 +110,7 @@ LINE公式アカウント機能 の画面右側にある「編集」リンクを
 
 ## 1-7. チャネルアクセストークン を発行してメモしておく
 
-チャネルアクセストークンの「発行」ボタンを押下して発行し、メモしておく
+ LINE Developersに戻り、チャネルアクセストークンの「発行」ボタンを押下して発行し、メモしておく
 
 ![GenerateToken](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/GenerateToken_01.png)
 

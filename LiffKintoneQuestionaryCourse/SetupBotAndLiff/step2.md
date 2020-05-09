@@ -12,7 +12,8 @@ Step2 ではLINE の設定画面でLIFF アプリを利用するためのチャ�
 
 ## 2-2. プロバイダーを選択
 
-任意のプロバイダーを選択
+ Bot を作ったのと同じプロバイダーを選択
+ 
 ![プロバイダー選択](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/ProviderList.png)
 
 
