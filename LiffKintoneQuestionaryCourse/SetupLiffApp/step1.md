@@ -12,7 +12,7 @@ LIFF アプリのソースコードは下記のGitHub リポジトリにアッ�
 
 Terminal で以下のコマンドを実行し、heroku に登録したメールアドレスとパスワードを入力してログインする
 
-`heroku login --interactive`{{copy}}
+`heroku login --interactive`{{execute}}
 
 
 ## 1-2. heroku アプリを作成する

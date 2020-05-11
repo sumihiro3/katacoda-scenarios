@@ -4,29 +4,30 @@ heroku にアプリをデプロイする前に環境変数を設定します。
 
 ## 2-1. アプリの実行設定
 
-下記のコマンドをTerminal にコピペして実行してください。
+下記のコマンドをTerminal で実行してください。
+（コマンド部分をクリックすると実行できます）
 
 ### 2-1-A. heroku でのアプリビルド用設定
 
 アプリをビルドする際に `package.json` にある `devDependencies` のモジュールもインストールするように設定
 
-`heroku config:set NPM_CONFIG_PRODUCTION=false`{{copy}}
+`heroku config:set NPM_CONFIG_PRODUCTION=false`{{execute}}
 
 ### 2-1-B. アプリにホスト 0.0.0.0 を listen させ、プロダクションモードで起動する設定
 
-`heroku config:set HOST=0.0.0.0`{{copy}}
+`heroku config:set HOST=0.0.0.0`{{execute}}
 
-`heroku config:set NODE_ENV=production`{{copy}}
+`heroku config:set NODE_ENV=production`{{execute}}
 
 ### 2-1-C. アプリ画面にデバッグ用コンソール（vConsole）を表示させる設定
 
-`heroku config:set USE_VCONSOLE=true`{{copy}}
+`heroku config:set USE_VCONSOLE=true`{{execute}}
 
 *`vConsole` は、スマートフォンなどのブラウザでも開発者ツール（ログ、通信 など）が閲覧できるツールです*
 
 ### 2-1-D. フロント（SPA）から実行するサーバーサイドAPI のURL を設定
 
-`heroku config:set API_URL=$(heroku info -s | grep web_url | cut -d= -f2) `{{copy}}
+`heroku config:set API_URL=$(heroku info -s | grep web_url | cut -d= -f2) `{{execute}}
 
 アプリのURL が設定されます。
 
@@ -124,7 +125,7 @@ heroku config:set LIFF_ID=1234567890-XXXXXXXX
 
 下記のコマンドを実行して、設定した値が表示されていればOKです
 
-`heroku config`{{copy}}
+`heroku config`{{execute}}
 
 実行例
 

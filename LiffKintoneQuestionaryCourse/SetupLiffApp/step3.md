@@ -5,7 +5,7 @@
 
 heroku へのデプロイは下記のコマンドを実行するだけです。
 
-`git push heroku master`{{copy}}
+`git push heroku master`{{execute}}
 
 
 ### お疲れ様でした

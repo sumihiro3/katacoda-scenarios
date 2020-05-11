@@ -33,7 +33,7 @@ $
 
 下記のコマンドを実行しておくと、ログが表示されます。
 
-`heroku logs --tail`{{copy}}
+`heroku logs --tail`{{execute}}
 
 
 ## 5-2. LIFF アプリを動かす
