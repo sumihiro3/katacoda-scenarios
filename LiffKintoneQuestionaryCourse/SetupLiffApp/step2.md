@@ -88,7 +88,7 @@ heroku config:set LINE_BOT_CHANNEL_SECRET=xxxxxxxxxxxxxxxxxxxx
 
 ### 2-3-B. LINE Bot のChannel Access Token
 
-`heroku config:set LINE_BOT_CHANNEL_SECRET=${bot-channel-access-token}`
+`heroku config:set LINE_BOT_CHANNEL_ACCESS_TOKEN=${bot-channel-access-token}`
 
 **${bot-channel-access-token} 部分は、ご自分の環境に合わせて変更してください**
 
