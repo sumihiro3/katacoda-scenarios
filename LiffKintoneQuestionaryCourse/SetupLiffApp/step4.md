@@ -13,7 +13,7 @@
 
 ![Webhook](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/WebhookSetting_01.png)
 
-`https://${your_app_name}.herokuapp.com/bot/webhook`{{copy}}
+`https://${your_app_name}.herokuapp.com/bot/webhook`
 
 **${your_app_name}部分は、ご自分のheroku 環境に応じて変更してください**
 
@@ -29,7 +29,7 @@
 エンドポイントURL を入力して更新する。
 
 
-`https://${your_app_name}.herokuapp.com/`{{copy}}
+`https://${your_app_name}.herokuapp.com/`
 
 **${your_app_name}部分は、ご自分のheroku 環境に応じて変更してください**
 
