@@ -1,0 +1,11 @@
+{
+  "title": "LINE x Kintone x Azure Takeout Course",
+  "description": "build the Takeout app with LINE and kintone, Microsoft Azure",
+  "courses": [
+    {
+      "course_id": "SetupLineApp",
+      "title": "Setup LINE App",
+      "description": "Setup LINE App"
+    }
+  ]
+}
