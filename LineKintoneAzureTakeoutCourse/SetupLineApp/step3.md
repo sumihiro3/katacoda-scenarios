@@ -10,10 +10,7 @@
 Katacoda 画面のIDE タブを選択してエディター（VSCode）を表示してください。
 少し時間がかかる場合があります。
 
-![エディター（VSCode）を表示させる](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/KatacodaIDETab.png)
-
-エディターの全画面表示や、別タブでの表示も可能
-![エディター（VSCode）を表示させる](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/KatacodaIDETabOpened.png)
+![エディター（VSCode）を表示させる](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineKintoneAzureTakeoutCourse/SetupLineApp/images/KatacodaIDETab.png)
 
 
 ## 3-2. 設定ファイル（.env ファイル）を作成する
@@ -25,13 +22,11 @@ Katacoda 画面のIDE タブを選択してエディター（VSCode）を表示�
 
 ## 3-3. 設定ファイル（.env ファイル）を
 
-app フォルダにある `.env` ファイルをクリックして開く
+IDE に戻ってapp フォルダにある `.env` ファイルをクリックして開く
 
-TODO 画像を更新する
-![envファイル](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/OpenDotEnv.png)
+![envファイル](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineKintoneAzureTakeoutCourse/SetupLineApp/images/OpenDotEnv.png)
 
-TODO 画像を更新する
-![envファイル](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineBotBasicCourse/LineBotBasicScenario/images/ModifyDotEnv.png)
+![envファイル](https://raw.githubusercontent.com/sumihiro3/katacoda-scenarios/master/LineKintoneAzureTakeoutCourse/SetupLineApp/images/ModifyDotEnv.png)
 
 
 ## 3-4. テイクアウトアプリの実行設定を設定ファイルに記載する
